@@ -380,7 +380,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = Q6PD97MRX4;
+				DEVELOPMENT_TEAM = US5DTPYQ6L;
 				INFOPLIST_FILE = FirstDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.swiftandpainless.FirstDemoTests;
@@ -396,7 +396,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = Q6PD97MRX4;
+				DEVELOPMENT_TEAM = US5DTPYQ6L;
 				INFOPLIST_FILE = FirstDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.swiftandpainless.FirstDemoTests;
